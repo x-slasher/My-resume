@@ -168,6 +168,7 @@ p {
   position: relative;
   margin-top: 0;
   margin-bottom: 30px;/*changed here*/
+  
 }
 .main-wrapper .section-title .fa {
   width: 30px;
@@ -189,6 +190,7 @@ p {
   font-size: 16px;
   position: relative;
   top: -2px;
+
 }
 .main-wrapper .section {
   margin-bottom: 80px;/*changed here*/
