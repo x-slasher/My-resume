@@ -158,7 +158,7 @@ p {
   background: #fff;
   padding: 60px;
   padding-right: 350px;/* change here*/
-  height: 1300px;/* change here*/
+  height: 2400px;/* change here*/
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
@@ -295,6 +295,10 @@ p {
     position: relative;
     top: 1px;
   }
+}
+
+ul.b {
+  list-style-type: square;
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
